@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f2808b3.css",
+    "main.js": "/static/js/main.c50e1e76.js",
+    "static/media/servicesCardImg1.jpg": "/static/media/servicesCardImg1.c0a5b9dc54d4ddb13fb5.jpg",
+    "static/media/blogCardImg3.jpg": "/static/media/blogCardImg3.725880da013d47ab5858.jpg",
+    "static/media/blogCardImg1.jpg": "/static/media/blogCardImg1.af881425c6333fbfa91f.jpg",
+    "static/media/blogCardImg2.jpg": "/static/media/blogCardImg2.0d473ac4b54fcaedfeaa.jpg",
+    "static/media/signupWithFacebookIcon.svg": "/static/media/signupWithFacebookIcon.effe602415ea92c6c2626866c1f0df6a.svg",
+    "static/media/bookImg1.jpg": "/static/media/bookImg1.4b44435e2feb8fc5ef3c.jpg",
+    "static/media/signupWithGoogleIcon.svg": "/static/media/signupWithGoogleIcon.c65a56b8bdb249f1bd3a420e3becb6f4.svg",
+    "static/media/bookImg9.jpg": "/static/media/bookImg9.e9ab0df49a01ab254709.jpg",
+    "static/media/servicesCardImg2.jpg": "/static/media/servicesCardImg2.28313e683438690c39d6.jpg",
+    "static/media/servicesCardImg5.jpg": "/static/media/servicesCardImg5.809a2acfd9d1edc36bc8.jpg",
+    "static/media/servicesCardImg4.jpg": "/static/media/servicesCardImg4.04b51c2da9c4d5255fc1.jpg",
+    "static/media/barry.png": "/static/media/barry.ea94eead8c6f0a759788.png",
+    "static/media/servicesCardImg3.jpg": "/static/media/servicesCardImg3.6877da84424faa3efdf2.jpg",
+    "static/media/bookImg10.jpg": "/static/media/bookImg10.4efa9e8f142b52ef5be8.jpg",
+    "static/media/bookImg6.jpg": "/static/media/bookImg6.fa1e4001cb5994b0601f.jpg",
+    "static/media/bookImg7.jpg": "/static/media/bookImg7.f571c8fa9a9f5f7a0815.jpg",
+    "static/media/bookImg3.jpg": "/static/media/bookImg3.24545d70ae7ed2dc9452.jpg",
+    "static/media/bookImg8.jpg": "/static/media/bookImg8.82ae34238999a9abb8ce.jpg",
+    "static/media/headerBgImg.jpg": "/static/media/headerBgImg.8eb0d3db3fed871a9c8b.jpg",
+    "static/media/bookImg11.jpg": "/static/media/bookImg11.6577cb647087a23fe65a.jpg",
+    "static/media/bookImg4.jpg": "/static/media/bookImg4.39aaa28f522ca135527f.jpg",
+    "static/media/bookImg5.jpg": "/static/media/bookImg5.6f0bdb552729905044a0.jpg",
+    "static/media/bookImg2.jpg": "/static/media/bookImg2.6009466143c65fcd7c60.jpg",
+    "index.html": "/index.html",
+    "main.9f2808b3.css.map": "/static/css/main.9f2808b3.css.map",
+    "main.c50e1e76.js.map": "/static/js/main.c50e1e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f2808b3.css",
+    "static/js/main.c50e1e76.js"
+  ]
+}
